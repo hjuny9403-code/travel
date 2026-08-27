@@ -1,0 +1,7 @@
+{
+  "name": "가을 삿포로 여행 플래너",
+  "description": "렌트 없이 즐기는 가을 삿포로 3박 4일 완벽 가이드, 단풍 추천 시기, 대중교통 여행지 및 구글 리뷰 2,000개 이상 맛집 정보",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
